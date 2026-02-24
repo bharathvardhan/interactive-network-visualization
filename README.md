@@ -119,3 +119,17 @@ interactive-network-visualization/
  │    └── d3-dsv.min.js
  ├── assets/
  └── README.md
+
+
+ ## Impact & Insights
+
+- This project demonstrates how interactive visualization improves exploratory analysis:
+- Highlights highly connected nodes through size encoding
+- Reveals structural clusters via force simulation
+- Enables manual spatial organization through node pinning
+- Improves interpretability of relational datasets
+
+## Author
+
+Bharath Vardhan Reddy Ravula
+M.S. Data Analytics Engineering — George Mason University
