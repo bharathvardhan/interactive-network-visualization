@@ -1,6 +1,6 @@
 # interactive-network-visualization
 Interactive force-directed network visualization using D3.js v5 with drag-to-pin nodes and degree-based styling.
-# 🌐 Interactive Network Visualization — Graph Analytics with D3.js
+# Interactive Network Visualization — Graph Analytics with D3.js
 
 [D3.js](https://img.shields.io/badge/D3.js-Visualization-orange)
 [JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
