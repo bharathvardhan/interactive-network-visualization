@@ -21,9 +21,9 @@ The visualization explores similarity relationships between board games using no
 
 ## Demo Preview
 
-<--
+
 [Interactive Graph Demo](assets/demo.png)
--->
+
 
 ---
 
