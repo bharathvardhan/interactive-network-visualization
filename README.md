@@ -66,18 +66,14 @@ This visualization allows users to explore connectivity patterns through interac
 ## Architecture
 
 Data (CSV)
-
-     ↓
+   ↓
 D3 Data Binding
-
-     ↓
+   ↓
 Force Simulation Engine
-
-     ↓
+   ↓
 SVG Rendering Layer
-
-     ↓
-Interactive Events (Drag, Pin, Hover)
+   ↓
+Interactive Events
 
 ---
 
